@@ -45,6 +45,7 @@
 	"farmersdelight.BlockEntityTypeMixin",
 	"farmersdelight.FlintAndSteelMixin",
 	"farmersdelight.NetherStoveBlockMixin",
+	"farmersdelight.RichSoilFarmlandBlockMixin",
 	"farmersdelight.StoveBlockMixin",
 	"naturalist.SnakeMixin",
 	"oreganized.EnchantmentHelperMixin",
