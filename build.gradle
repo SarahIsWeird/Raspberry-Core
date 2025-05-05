@@ -47,7 +47,7 @@ repositories {
         name = "shedaniel - cloth config"
     }
     maven {
-        url = "https://maven.jaackson.me"
+        url = "https://maven.teamabnormals.com/"
     }
     exclusiveContent {
         forRepository {
@@ -126,7 +126,7 @@ dependencies {
 
     // Farmer's Delight and its addons
     modImplementation("maven.modrinth:farmers-delight:$farmers_delight_version")
-    modImplementation("curse.maven:brewin-and-chewin-637808:$brewin_and_chewin_version")
+    modImplementation("maven.modrinth:brewin-and-chewin:$brewin_and_chewin_version")
     modImplementation("maven.modrinth:cultural-delights:$cultural_delights_version")
     modImplementation("maven.modrinth:my-nethers-delight:$nethers_delight_version")
 
@@ -160,6 +160,7 @@ dependencies {
     modImplementation("maven.modrinth:survivality:${survivality_version}")
     modImplementation("maven.modrinth:screenshot-viewer:${screenshot_viewer_version}")
     modCompileOnly("local:ecologics-forge:1.19.2-2.1.11")
+    modImplementation("curse.maven:windsweptmod-636321:$windswept_version")
 
 
     // mods for testing purposes

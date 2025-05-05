@@ -29,6 +29,7 @@
 	"cofh_core.EffectEventsMixin",
 	"create.AllFluidsMixin",
 	"create.BlastingTypeMixin",
+	"create.DeployerHandlerMixin",
 	"create.FanProcessingMixin",
 	"create.GogglesItemMixin",
 	"create.MountedStorageMixin",
